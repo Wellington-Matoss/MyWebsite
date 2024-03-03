@@ -19,6 +19,16 @@ export default function Home() {
         </div>
             
         <div className="posts">
+        <div className="post-item">
+            <h3>OneBitFlix</h3>
+            <div class="info">
+                <h5>03 mar 2024</h5>
+                <h5>|</h5>
+                <h5>Sass, SQL, React, Next.js</h5>
+            </div>
+            <p>Projeto desenvolvido pela OneBitCode. É um projeto onde carrega tudo o que foi aprendido ao longo do curso de Dev Full-Stack.</p>
+        </div>
+
             <div className="post-item">
                 <h3>Criando meu Website</h3>
                 <div className="info">
